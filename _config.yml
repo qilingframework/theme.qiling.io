@@ -299,7 +299,7 @@ navbar:
     - { key: "Installation", link: "https://docs.qiling.io/en/latest/install"}
     - { key: "Documentation", link: "https://docs.qiling.io"}
     - { key: "Stake Pool", link: "/stake/"}    
-    - { key: "Donation", link: "/donation/"}
+    - { key: "SWAG", link: "/swag/"}
     #- { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     #- { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     #- { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
