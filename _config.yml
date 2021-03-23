@@ -297,8 +297,7 @@ navbar:
     - { key: "Showcase", link: "https://github.com/qilingframework/qiling/issues/134"}
     - { key: "Comparison", link: "/comparison/"}
     - { key: "Installation", link: "https://docs.qiling.io/en/latest/install"}
-    - { key: "Documentation", link: "https://docs.qiling.io"}
-    - { key: "Stake Pool", link: "/stake/"}    
+    - { key: "Documentation", link: "https://docs.qiling.io"} 
     - { key: "SWAG", link: "/swag/"}
     #- { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     #- { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
