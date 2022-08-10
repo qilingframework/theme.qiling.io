@@ -864,14 +864,6 @@ links:
       link: "https://t.me/qilingframework",
       image: "https://github.com/qilingframework/theme.qiling.io/blob/master/source/img/1024px-Telegram_logo.svg.png?raw=true"
     }
-    - {
-      title: "JD Security",
-      intro: "Technology Partner",
-      link: "http://security.jd.com/",
-      image: "https://github.com/qilingframework/theme.qiling.io/blob/master/source/img/jdlogo.png?raw=true"
-    }    
-
-
 
 #---------------------------
 # 以下是配置 JS CSS 等静态资源的 URL 前缀，可以自定义成 CDN 地址，
